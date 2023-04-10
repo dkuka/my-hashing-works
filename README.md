@@ -9,7 +9,9 @@ Unsupervised hashing
 
 
 Deep supervised hashing 
+
 [3] Dong G, Zhang X, Shen X, Lan L, Luo Z, Ying X. Discriminative geometric-structure based deep hashing for large-scale image retrieval. IEEE Transactions on Cybernetics, early access, May, 2022.
+
 [4] Shen X, Dong G#, Zheng Y, Lan L, Tsang I, Sun Q. Deep co-image-label hashing for multi-label image retrieval[J]. IEEE Transactions on Multimedia, 2021, 24: 1116-1126.
 
 
